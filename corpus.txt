@@ -1,0 +1,18 @@
+Rafael	Joao	Bia	Giovana	Caio	Henrique
+@neymar	@neymar	@Beyonce	@ProfCaio	@profRafael	@ProfCaio
+@LuanSantana	@LuanSantana	@DorivalJr	@ProfDouglas	@profHenrique	@profHenrique
+@Pericles	@Pericles	@FDiniz	@profHenrique	@Unimar	@profRafael
+@ProfCaio	@ProfCaio	@Cr7	@Unimar	@Unesp	@Unimar
+@ProfDouglas	@ProfDouglas	@Messi	@Unesp	@Anitta	@Unesp
+@profHenrique	@profHenrique	@LebronJames	@Anitta	@Rihana	@Anitta
+@Unimar	@Unimar	@PaulMcCartney	@Rihana	@Beyonce	@Rihana
+@Unesp	@Unesp	@profRafael	@Beyonce	@Cr7	@Beyonce
+@Anitta	@Anitta		@Cr7	@Messi	@Cr7
+@Rihana	@Rihana		@Messi	@LebronJames	@Messi
+@Beyonce	@Beyonce		@LebronJames		@LebronJames
+@DorivalJr	@DorivalJr		@PaulMcCartney		
+@FDiniz	@FDiniz		@profRafael		
+@Cr7	@profRafael				
+@Messi					
+@LebronJames					
+@PaulMcCartney					
