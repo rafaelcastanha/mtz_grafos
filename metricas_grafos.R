@@ -16,5 +16,5 @@ E(g_sim)$weight #pesos do grafo
 
 mean(E(g_sim)$weight) #força de conectividade média
 
-edge_density(g_co, loops = FALSE) #Densidade da rede
+edge_density(g_sim, loops = FALSE) #Densidade da rede
 
